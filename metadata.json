@@ -1,0 +1,5 @@
+{
+  "name": "DataLink AI",
+  "description": "Intelligent Excel file analyzer that uses Gemini to suggest common keys for joining datasets.",
+  "requestFramePermissions": []
+}
